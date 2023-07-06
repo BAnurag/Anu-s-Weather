@@ -1,4 +1,4 @@
-const apikey = "69929846e427405cbba9b65798882731";
+const apikey = "ApiKey";
 
 const weatherDataEl = document.getElementById("weather-data");
 
